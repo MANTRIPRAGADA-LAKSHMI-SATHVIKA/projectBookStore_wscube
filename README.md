@@ -1,2 +1,2 @@
-# projectBookStore_wscube
+# projectBookStore
 The "Comfy Book Club" project is a stylish and user-friendly website designed for book lovers. It features a responsive layout, a clean navigation menu, and an inviting color scheme that enhances readability. Built with HTML and CSS, the site includes sections like Home, About, Genre, Testimonials, Gallery, and Contact Us. With smooth interactions, a cozy aesthetic, and a mobile-friendly menu, it creates an engaging space for readers to explore and connect. 📚✨
